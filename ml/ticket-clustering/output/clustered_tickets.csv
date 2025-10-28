@@ -1,0 +1,89 @@
+Inquiry_id,Question,Description_clean,Label
+12323425,cant access channels after update,cant access channel update,0
+12323439,my channel list is missing,channel list missing,0
+12323462,channel keeps pixelating,channel keep pixelating,0
+12323468,how to set favorite channels,set favorite channel,0
+12323495,i cant access premium channels,cant access premium channel,0
+12323500,my channels reordered after update,channel reordered update,0
+12323485,my channel guide missing shows,channel guide missing show,0
+12323419,i want to cancel service,cancel service,1
+12323426,where is my refund,refund,1
+12323423,i have slow internet with directv,slow internet directv,1
+12323435,i keep getting error code 721,keep getting error code,1
+12323436,my guide is not loading,guide not loading,1
+12323430,where to find my invoice,find invoice,1
+12323420,how to schedule technician visit,schedule technician visit,1
+12323418,how to upgrade my package,upgrade package,1
+12323413,my router is not working,router not working,1
+12323444,how to change account email,change account email,1
+12323440,my hd picture is distorted,picture distorted,1
+12323438,why cant i log in to my account,cant log account,1
+12323434,i need help with installation,help installation,1
+12323437,how to set parental controls,set parental control,1
+12323472,how to change my phone number,change phone number,1
+12323471,what is my account number,account number,1
+12323469,my parental controls not working,parental control not working,1
+12323452,why is guide slow,guide slow,1
+12323448,how to enable subtitles,subtitle,1
+12323455,how do i add parental PIN,add parental pin,1
+12323451,my recording didnt save,recording didnt save,1
+12323447,why is my hdmi not detected,hdmi not detected,1
+12323432,how to port my number,port number,1
+12323424,black screen on tv,black screen,1
+12323416,why is my bill high,bill,1
+12323475,can i pause recording,pause recording,1
+12323474,how to claim refund,claim refund,1
+12323473,my streaming app not loading,streaming app not loading,1
+12323466,how to update billing info,update billing info,1
+12323461,my DVR not recording,dvr not recording,1
+12323463,how to request technician,request technician,1
+12323454,my billing address is wrong,billing address wrong,1
+12323453,how to change language settings,change language setting,1
+12323481,how to cancel autopay,cancel autopay,1
+12323482,why am i seeing ads,seeing,1
+12323487,i need help setting up email,help setting email,1
+12323488,my service slow after update,service slow update,1
+12323477,why cant i view pay per view,cant view pay per view,1
+12323445,i need invoice for last month,invoice last month,1
+12323429,offer code not working,offer code not working,1
+12323417,i was charged twice,charged twice,1
+12323499,how to change parental purchase settings,change parental purchase setting,1
+12323486,how to reset my password,reset password,1
+12323489,how to link streaming account,link streaming account,1
+12323494,how to schedule recordings,schedule recording,1
+12323496,how to enable hd streaming,streaming,1
+12323497,my audio and video out of sync,audio and video sync,1
+12323490,why is my DVR full,dvr full,1
+12323460,how to change my plan online,change plan online,2
+12323427,how to change payment method,change payment method,2
+12323433,how to change plan,change plan,2
+12323449,what plans have sports channels,plan sport channel,2
+12323476,my remote buttons stuck,remote button stuck,3
+12323421,my remote is not working,remote not working,3
+12323458,i need help with pairing remote,help pairing remote,3
+12323446,my remote pairing failed,remote pairing failed,3
+12323465,why is remote battery draining fast,remote battery draining fast,3
+12323491,my remote not responding to voice,remote not responding voice,3
+12323480,why is remote pairing lost,remote pairing lost,3
+12323478,how to change subscription owner,change subscription owner,4
+12323479,my subscription shows inactive,subscription show inactive,4
+12323443,subscription renewed without consent,subscription renewed consent,4
+12323450,how to pause my subscription,pause subscription,4
+12323464,can i transfer my subscription,transfer subscription,4
+12323428,i lost my subscription,lost subscription,4
+12323467,why does my receiver reboot,receiver reboot,5
+12323441,how to connect wifi to receiver,connect wifi receiver,5
+12323415,how to reset my receiver,reset receiver,5
+12323484,where to download receiver app,download receiver app,5
+12323498,how to check warranty,check warranty,6
+12323470,how to check service outages,check service outage,6
+12323459,why did service stop suddenly,service stop suddenly,6
+12323457,how to check data usage,check data usage,6
+12323431,signal drops during rain,signal drop rain,7
+12323483,how to report signal interference,report signal interference,7
+12323414,i have no signal,signal,7
+12323422,how to activate new box,activate new box,8
+12323456,my box wont turn on,box wont turn,8
+12323442,my on-demand wont play,demand wont play,8
+12323492,how to change timezone on box,change timezone box,8
+12323493,my box overheating,box overheating,8
